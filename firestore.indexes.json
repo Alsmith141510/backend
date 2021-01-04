@@ -1,0 +1,27 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "courseMaster",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ageId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "courseFormatId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "sessionLevelId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "cost",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
