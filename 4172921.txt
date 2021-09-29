@@ -1,0 +1,95 @@
+1. coupon redemption.
+2. Exam data content.
+
+
+
+
+
+https://twitter.com/SheWorksCloud
+https://twitter.com/Miss_Internet
+https://twitter.com/hashtag/FemaleFounder?src=hashtag_click
+
+
+
+schema.org
+alt attr for all images
+<title> </>
+
+
+
+
+
+
+< meta name="Handheldfriendly" content="true">
+< meta name="MobileOptimized" content="true">
+< meta name="Handheldfriendly" content="true">
+
+
+install stripe-cli
+npm i -g stripe-cli
+
+login
+stripe login
+
+
+gs://learningapp-a273d.appspot.com/video
+
+
+1) The page is not according to the https://projects.invisionapp.com/share/Q5ZBMY3MKXY#/screens/442934145/comments
+2) Right now the become the techer page is stuck on the third step of certificates.
+3) Need to talk to you about the following -
+  The Fileupload is working but this needs to work in conjunction with teacher account created.
+a) The login should be created as first step. 
+b) next the School/teacher information should be collected.
+c) On Submit of the school teacher info it should be added to the firestore table/document
+d) NExt it should trigger the KYC document collection on skype. Which is Function.
+
+021000322
+004834328352
+
+
+381050203987
+
+next action.
+
+
+include:google-site-verification=p3B2OKuenumNdtM4glN6Oe8ydst-rZ0CZapcpl6Vn1A 
+
+google-site-verification=m0xNRWQj6vLmmY3F9cRgP-SB9jVguL-dIOEuV6oaWgE
+
+ww.teachanytime.com
+151.101.1.195
+151.101.65.195
+
+teachanytime.com google-site-verification=m0xNRWQj6vLmmY3F9cRgP-SB9jVguL-dIOEuV6oaWgE
+
+
+
+gs://learningapp-a273d_staticimg/
+gs://learningapp-a273d_staticimg/
+gs://learningapp-a273d_staticimg/
+gs://learningapp-a273d_staticimg/
+
+**** School admin cannot edit their own school.
+
+
+https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html
+
+https://stackoverflow.com/questions/36271899/what-is-the-correct-way-to-share-the-result-of-an-angular-http-network-call-in-r
+
+https://angular-university.io/lesson/rxjs-sharereplay-operator
+
+404 page
+
+500 page.
+
+
+
+
+
+
+Search from the header give you the result but from the main componnent it does not.
+http://localhost:4200/search/results?keywords=search(value)%20%7B%0A%20%20%20%20%20%20%20%20%2F%2F%20Do%20your%20search%20here...%0A%20%20%20%20%20%20%20%20%2F%2F%20console.log(value);%0A%20%20%20%20%7D
+
+
+

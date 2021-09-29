@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "target": "agoratoken",
+    "public": "public",
+    "rewrites": [{
+      "source": "**",
+      "function": "getTokenforeducationapp"
+    }],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

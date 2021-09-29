@@ -1,0 +1,16 @@
+{
+  "stripe": {
+    "testkey": "pk_test_QRTEQDxQdbEwV1G2yfUzBubd",
+    "token": "sk_test_QUJgipEOFvfvIA3A6KDmoKis",
+    "secret": "sk_test_QUJgipEOFvfvIA3A6KDmoKis"
+  },
+  "sendgrid": {
+    "key": "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"
+  },
+  "firebase": {
+    "projectId": "learningapp-a273d",
+    "databaseURL": "https://learningapp-a273d.firebaseio.com",
+    "storageBucket": "learningapp-a273d.appspot.com",
+    "locationId": "us-central"
+  }
+}

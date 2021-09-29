@@ -1,0 +1,1 @@
+export { voucherValidate } from './http';

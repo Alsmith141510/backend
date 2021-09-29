@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "learningapp-a273d"
+  },
+  "targets": {
+    "learningapp-a273d": {
+      "hosting": {
+        "agoratoken": [
+          "agoratokengen"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learningapp-a273d",
+  "private_key_id": "b4c8a9543650d874599691e890ad6b2b4a1ea18f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMOYLP2eldfG/c\nLx2uPi+758oLO7ZZazM5hFlWzX3qlfk7rVKD1J25dWHvM29Fcp2CAzSei1/mDWQs\nUq0FHugTKxPLrtSgdzvgLr1Bvj6X2sOEgZ7BobnhNisndN2BbqAmZvW64fujAkmr\nw6EW4Whm3iIoSDpurlvFNsRFXnmFKJuWIX0Abs9LnhrVoLFd8vZMkKCR2SDso84a\nUwUy681ua/+Vu+YDIrvsJ/TXvMWWcdy5fOpeS03J7gRFnOIoFCpzKrT9cTwmu4K3\nmGIRpIvUolK9PFVCQ+WRAkUxtZJvAXf4vLfIurE1wQ2VIyUwOhg8tNvSTi+VhVeR\n/e8CnevTAgMBAAECggEACuG1mqWdzaFnxG+uQS6HFJgRJ/ASk0km/ZWTvRBN+UXs\ndcWSc/vMO6mJgllXQHgO9HJ/R0Nd5MAp6kKtfWxcKUlOULgMFFDGG/fhlbMxWp4J\ndPIDJ4YahWmBeyS6+L6QQfuSdFa+Nb1Vd5WA69su2OxVHZhbpLIdqbB1XMzf5Lxg\nzvnjrDpGeW4mytA6HKlKbKm517la8R7FTzwIyS5Beicy2mUkag5SbAUnCU6O5znB\nE9TObUCEy1/wfjlnZplVaZjWTBWsiP7ytzcp6slGS/9LRVMd9vGscuAJpFmoxrc/\nhsPxAfrpp+g1VwCqpnpkPDVORHdizPA7VSL0hhQaIQKBgQDo3yZLb8la6drZm4F6\nE59Ll5vh8a+aJB19OyiJx+u371sFUXLkYZRzmgnSc/IWHfpZiGNvLiDy5R3hibPo\nsJsckOH/njMVajfW74GxyZnnI03pvwVjOSfENkgoAQXDbMWyUiPNoAGyMfmVJfw7\nJZXR1hM6SOrj7UMy9AdXuXquzwKBgQDggf/8CjLka/r0U7Szj0hMI8pVie9E6mpH\nol3MQ3ujGiRB/n52sXvF8yN7WuCpxKlXYe7LrcANMUuZoawngWOlkXpGKnYdcz3m\nkIc1207jpXvCF9hHzebOCJVrwCIXHmIFuRxNuGq6MIIsitzlaZNcfyaUzCAyail9\nqYZzbzaTvQKBgAiUyIV5HhNikLT6HQBRnsobURw3WsA0Wn3V4z2Ih3AkutbsVG6E\nBgNohrohmack/ae09e0P5xjsRnicKWwGrgCUei+ANeOxIVOjScUyZ6Bz1ZgqeNla\nLtP1KB2JRBwacwKKMlWOcuGNI+RSHQRU8ztjRxwbucQiZxqGkYqzBAlTAoGADn9W\nkGf4MVfntK9TE+VEveXxwuRNVx3sDwQlGnOhID8n6DsO34tGetngiK6to0jXxpTE\nXtKxfCiawSj3fPWWAbMLOkyzo+M1NBZRJOEsjva4ryfrB3f8V4GmZHbbvLJxkf0K\nHtqxyaQoQ8gTy5ytr2NmkmU8DwVb+Ilh7UJZO+ECgYEAhOxhksXGh9IiwmOptJWr\nT0RzD6aUXQEluRy4DXdARbGFPj1Lo0dBBFVSi560zfXqIQfIQ6SrjwZaNtceKsxm\nnDaNSoEcg6jg8hEInMHOjc+9WD7e1YkGxlYwplbDlSAAeblD2buF69IrDxfB6UvR\n0BmvlWmqN2EoRyuasCOYQnQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "learningapp-a273d@appspot.gserviceaccount.com",
+  "client_id": "",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learningapp-a273d%40appspot.gserviceaccount.com"
+}

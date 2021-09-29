@@ -1,0 +1,73 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "courseMaster",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ageId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "courseFormatId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "sessionLevelId",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "cost",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "taParam",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "paramName",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "endDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "taParam",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "paramName",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "paramValue",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "endDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "taParam",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "paramName",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "startDate",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
